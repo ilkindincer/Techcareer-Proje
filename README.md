@@ -33,6 +33,3 @@ Test sonuçları mochawesome-report ve locust-load-test-report klasörlerinde de
 - **Performans Testleri:** `load-test-proje` klasöründe Locust ile gerçekleştirilen yük testleri ve `load-test-locust-report` klasöründe ilgili raporlar bulunmaktadır.
 - **Raporlar:** `mochawesome-report` klasöründe otomasyon testlerine ait raporlar mevcuttur.
 
-Gerekli Bağımlılıkları Yükleyin:
-	•	Node.js ve npm yüklü olduğundan emin olun. 
- •	Python ve Locust yüklü olmalıdır.
